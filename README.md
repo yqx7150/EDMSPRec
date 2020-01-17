@@ -1,4 +1,4 @@
-# MEDMSP 
+# EDMSPRec 
 The Code is created based on the method described in the following paper:
 M. Zhang, M. Li, J. Zhou, Y. Zhu, S. Wang, D. Liang, Q. Liu. High-dimensional Embedding Network Derived Prior for Compressive Sensing MRI Reconstruction
 ## Motivation
