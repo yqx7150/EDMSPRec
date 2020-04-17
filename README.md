@@ -9,7 +9,7 @@ Although recent deep learning methodologies have shown excellent performance in 
 Schematic illustration of the multi-channel network scheme at the training stage and the auxiliary variables technique used for single-channel intermediate image at the iterative reconstruction phase.
 
 ## Experiments   
-![](./SIATdata_Test123/SIAT_testdata.tif)     
+![](./SIATdata_Test123/SIAT_testdata.tiff)     
 Three test images from SIAT.    
 
 ![repeat-MEDMSP](https://github.com/yqx7150/MEDMSP/blob/master/Figs/Fig2.png)
