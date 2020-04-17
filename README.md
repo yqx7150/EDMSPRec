@@ -22,7 +22,6 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
     (https://pan.baidu.com/s/1AdLa9kKiQ2F1_0jc-KS5EA Password：dvhs)
  
 
-## Other Related Projects
-  * 50 proton-density weighted knee images from FastMRI   
-[<font size=5>**[Dataset]**</font>](https://github.com/yqx7150/EDMSPRec/tree/master/fastMRIdata_50_testing)   
+## Testing Data
+  * 50 proton-density weighted knee images from FastMRI [<font size=5>**[Dataset]**</font>](https://github.com/yqx7150/EDMSPRec/tree/master/fastMRIdata_50_testing)   
 
