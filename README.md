@@ -10,7 +10,7 @@ Schematic illustration of the multi-channel network scheme at the training stage
 
 ## Experiments   
 ![](./SIATdata_Test123/SIAT_testdata.png)     
-<div align=center><img width="300" height="150" src="./SIATdata_Test123/SIAT_testdata.png"/></div>    
+<div align=center><img width="450" height="150" src="./SIATdata_Test123/SIAT_testdata.png"/></div>    
 Three test images from SIAT.    
 
 ![repeat-MEDMSP](https://github.com/yqx7150/MEDMSP/blob/master/Figs/Fig2.png)
