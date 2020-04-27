@@ -22,6 +22,8 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
     Cuda-9.0
     MatConvNet
     (https://pan.baidu.com/s/1ZsKlquIHqtgJYlq3iKNsdg Password：p130)
+    MEDMSPRec_model_v2
+    (https://pan.baidu.com/s/1voohJTmBSAF1XrHS7GpiRQ Password：8hnx)
     Pretrained Model
     (https://pan.baidu.com/s/1AdLa9kKiQ2F1_0jc-KS5EA Password：dvhs)
  
