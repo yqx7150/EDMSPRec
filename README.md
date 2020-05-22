@@ -34,6 +34,9 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
 
 
 ## Other Related Projects
+  * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
+[<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EDAEPRec)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
+
   * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
