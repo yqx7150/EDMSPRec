@@ -42,6 +42,9 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
   * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
+  * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
+ [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)
+ 
   * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
  [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
 
