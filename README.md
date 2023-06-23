@@ -44,7 +44,10 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
 
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
  [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9435335)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)   [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
- 
+
+  * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
+   
   * Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction  
  [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S0925231221000990) [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)    [<font size=5>**[Code]**</font>](https://github.com/yqx7150/WDAEPRec)
 
