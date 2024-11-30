@@ -35,7 +35,10 @@ Reconstruction results at 90% radial undersampling. From left to right: DLMRI, P
   * 50 proton-density weighted knee images from FastMRI [<font size=5>**[Dataset]**</font>](https://github.com/yqx7150/EDMSPRec/tree/master/fastMRIdata_50_testing)   
 
 
-## Other Related Projects
+## Other Related Projects   
+
+<div align="center"><img src="https://github.com/yqx7150/HKGM/blob/main/PPT/All-MRI.png" >  </div>   
+       
   * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
 [<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EDAEPRec)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide) [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
